@@ -1,21 +1,17 @@
 #Agile/Scrum Concepts
-
-
 ##User Story 	
-	Story Points Estimations
+###Story Points Estimations
 ##Roles
-	Scrum Master
-	Developers
-	Testers
-	Deploy Engineers
-	Business Aanalyst
-	Architecs
+###Scrum Master
+###Developers
+###Testers
+###Deploy Engineers
+###Business Aanalyst
+###Architecs
 ##Ceremonies
-	Es
-	Sprints
-	Daily Standup
-	Demo
-	Retrospectiva
+###Sprints
+###Daily Standup
+###Demo
+###Retrospectiva
 ##Tools
-	Jira
-		
+###Jira		
