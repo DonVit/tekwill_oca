@@ -1,4 +1,4 @@
 # Install JDK
 ## run java, javac
 # Install Git
-## Run git commands, add, commit
+## Run git commands, commit, add, push
